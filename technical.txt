@@ -1,0 +1,23 @@
+Technical architecture:
+
+excels:
+Employee Data
+HrData
+
+python pages:
+one single file to handle login
+
+if L1 employee:
+to submit his ratings
+view feedback given by manager and gen ai
+set goal for next year
+provide 360degree feedback
+
+
+additi
+rating reportees
+rating reportees 2
+
+
+
+
